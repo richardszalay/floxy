@@ -1,3 +1,4 @@
+**THIS PROJECT IS NO LONGER ACTIVELY MAINTAINED**
 
 Runtime dynamic proxy generation library for Flash/Flex
 
